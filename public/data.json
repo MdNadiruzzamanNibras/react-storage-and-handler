@@ -1,0 +1,62 @@
+[
+  {
+    "id": "623aa226a540c289794c9cdc",
+    "price": 5170,
+    "eyeColor": "blue",
+    "name": "Audrey Dodson",
+    "gender": "female",
+    "company": "QOT",
+    "email": "audreydodson@qot.com",
+    "phone": "+1 (829) 587-3188"
+  },
+  {
+    "id": "623aa226cbaaf80a8dfca48c",
+    "price": 1247,
+    "eyeColor": "green",
+    "name": "Lauri Chen",
+    "gender": "female",
+    "company": "RODEMCO",
+    "email": "laurichen@rodemco.com",
+    "phone": "+1 (874) 514-2454"
+  },
+  {
+    "id": "623aa22672a9954b2a409310",
+    "price": 3559,
+    "eyeColor": "green",
+    "name": "Francis Farmer",
+    "gender": "male",
+    "company": "ELECTONIC",
+    "email": "francisfarmer@electonic.com",
+    "phone": "+1 (977) 461-3632"
+  },
+  {
+    "id": "623aa2260269292a14833db7",
+    "price": 2891,
+    "eyeColor": "blue",
+    "name": "Parks Combs",
+    "gender": "male",
+    "company": "MUSAPHICS",
+    "email": "parkscombs@musaphics.com",
+    "phone": "+1 (835) 455-2487"
+  },
+  {
+    "id": "623aa2269c82b8fb0266df7b",
+    "price": 5910,
+    "eyeColor": "green",
+    "name": "Olsen Robinson",
+    "gender": "male",
+    "company": "ORBALIX",
+    "email": "olsenrobinson@orbalix.com",
+    "phone": "+1 (971) 471-3257"
+  },
+  {
+    "id": "623aa2260e0b4015ec96521d",
+    "price": 345,
+    "eyeColor": "green",
+    "name": "Janine Meadows",
+    "gender": "female",
+    "company": "DAISU",
+    "email": "janinemeadows@daisu.com",
+    "phone": "+1 (846) 570-2382"
+  }
+]
